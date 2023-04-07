@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:chaixiaobu/chaixiaobu.github.io.get master:gh-pages
+git push -f git@github.com:champion-zh/xuewenZhang.github.io.get master:gh-pages
 
 cd -
