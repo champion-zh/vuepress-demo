@@ -20,7 +20,8 @@ module.exports = {
     sidebar: {
       '/comps/': [
         '/comps/',
-        '/comps/select.md'
+        '/comps/select.md',
+        '/comps/table.md'
       ]
     }
   },
